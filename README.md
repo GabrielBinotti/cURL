@@ -1,0 +1,1 @@
+# Classe para requisição curl em php

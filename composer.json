@@ -1,0 +1,21 @@
+{
+    "name": "gabriel-binotti/curl",
+    "description":"Class to ",
+    "license": "MIT",
+    "type":"library",
+    "authors": [
+        {
+            "name": "Gabriel da Silva Binotti",
+            "email": "gabrielbinotti.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GabrielBinottiCurl\\" : "curlRequest"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "PHP": ">=7.0"
+    }
+}
